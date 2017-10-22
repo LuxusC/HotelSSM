@@ -1,4 +1,5 @@
 # HotelSSM
+
 |接口|URI|HTTP方法|
 |---|---|---|
 |根据用户id查询该用户的所有订单|localhost:8080/HotelSSM/order/user/{user_id}|GET|
